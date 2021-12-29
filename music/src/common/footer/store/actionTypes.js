@@ -1,0 +1,14 @@
+export const PLAY_TYPE = 'footer/PLAY_TYPE';
+export const CHANGE_TYPE = 'footer/CHANGE_TYPE';
+export const ADD_MUSIC = 'footer/ADD_MUSIC';
+export const BANNER_MUSIC_PLAY = 'footer/BANNER_MUSIC_PLAY';
+export const AUDIO_PIC_SHOW = 'footer/AUDIO_PIC_SHOW';
+export const SET_MUSIC_LIST = 'footer/SET_MUSIC_LIST';
+// export const SHOW_LYRICS = 'footer/SHOW_LYRICS';
+export const LYRICS_STATUS = 'footer/LYRICS_STATUS';
+export const CHANGE_LYRICS_TYPE = 'footer/CHANGE_LYRICS_TYPE';
+export const CHANGE_SONG_LIST_TYPE = 'footer/CHANGE_SONG_LIST_TYPE';
+export const SHOW_THE_SONG_LIST = 'footer/SHOW_THE_SONG_LIST';
+export const SHOW_MUSIC_LIST = 'footer/SHOW_MUSIC_LIST';
+export const PLAY_ONE_SONE = 'footer/PLAY_ONE_SONE';
+export const PLAY_ONE = 'footer/PLAY_ONE';
